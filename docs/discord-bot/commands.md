@@ -51,6 +51,13 @@ You must be opted in to the API key pool to use these commands. See [Linking You
   - `isLive` - Optional. If you want the embed to be live updating or not. Default is `false`.
   - `live_monitor_time` - Optional. You can specifiy how long the live updating will occur. Max is 3 hours, default is 30 minutes. You can specifiy the time in minutes or hours. Example: `30m` or `1h`. You can also provide a combination of both. Example: `1h30m`. If you don't provide a time, it will default to 30 minutes.
 
+<details>
+<summary>Example of Revives Command</summary>
+
+![Revives Command](example_of_revives_enabled.png)
+
+</details>
+
 :::caution
 This section is still a work in progress. There are other commands available, but they are not yet documented. More information will be added soon. If you do `/` in Discord you can see a list of all available commands if you click on Foggy Bot on the left of the panel (the cow).
 :::
