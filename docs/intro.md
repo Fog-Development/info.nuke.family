@@ -16,3 +16,7 @@ There are multiple services we offer to clients, the main one being our reviving
 ## Discord
 
 We have a [Discord server](https://discord.gg/ukq9gC4mHS) where you can create tickets, ask questions, get help, and chat with other users.
+
+## Our Family
+
+We are a part of the Nuke Family. The Nuke Family is a group of Torn players who have come together to create a community that helps each other out. You can find more information about the Nuke Family [here](./our-family/).
