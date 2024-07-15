@@ -11,7 +11,7 @@ The Nuclear Family is made up of a set of **9** factions that work together to g
 
 ## Training Factions
 
-### [Nuclear Fusion](https://www.torn.com/factions.php?step=profile&ID=12094/)
+### [Nuclear Fusion](https://www.torn.com/factions.php?step=profile&ID=12094)
 
 ![Nuclear Fusion](./banners/nuke_fusion.png)
 
@@ -20,13 +20,14 @@ The Nuclear Family is made up of a set of **9** factions that work together to g
 > We accept players spending a minimum of 1000 energy per day, between training, attacking - whatever your chosen area is.
 > We RW often, high payout percent and pay per hit with non-war and assists paid too.
 > Free refills for top trainers and free Xanax for top Xanax ratio.
-> We do not expect any minimum battle stats although applicants with lower stats are expected to be very active with solid growth. 
+> We do not expect any minimum battle stats although applicants with lower stats are expected to be very active with solid growth.
 
-### [Nuclear Winter](https://www.torn.com/factions.php?step=profile&ID=16282/)
+### [Nuclear Winter](https://www.torn.com/factions.php?step=profile&ID=16282)
 
 ![Nuclear Winter](./banners/nuclear_winter.png)
 
-> Nuclear Winter offers top notch faction perks. With peace perks consisting of: 
+> Nuclear Winter offers top notch faction perks. With peace perks consisting of:
+>
 > - Steadfast - 16/17%
 > - Criminality - Maxed (Bust Nerve 3)
 > - Voracity - Maxed
@@ -36,20 +37,23 @@ The Nuclear Family is made up of a set of **9** factions that work together to g
 <details>
 	<summary>See their large promo poster giving all the details</summary>
 
-	![Nuclear Winter](./nuclear_winter_promo.png)
+    ![Nuclear Winter](./nuclear_winter_promo.png)
+
 </details>
 
-### [Nuclear Blast](https://www.torn.com/factions.php?step=profile&ID=8085/)
+### [Nuclear Blast](https://www.torn.com/factions.php?step=profile&ID=8085)
 
 ![Nuclear Blast](./banners/nuclear_blast_400x100.png)
 
 > Nuclear Blast is a hybrid Ranked War/Training faction. Other factions are Fusion - (main faction), Armageddon (growth/ranked wars), Nuclear Winter (growth/ranked wars), and Nuclear Clinic, Nuclear Therapy, Torn Medical & Emergency Room (revive focused)
 >
 > We look for members that are very active and login multiple times a day. Inactive members will be kicked.
+
 <details>
 <summary>Requirements</summary>
 
 We ask that you:
+
 - Train an average of 1000E per day
 - Have 100 million battle stats and 35 NNB
 - Stack and participate in ranked war twice in seven weeks
@@ -59,31 +63,32 @@ We ask that you:
 - Fill 3 or more faction blood bags per day
 </details>
 
-### [Nuclear Armageddon](https://www.torn.com/factions.php?step=profile&ID=8954/)
+### [Nuclear Armageddon](https://www.torn.com/factions.php?step=profile&ID=8954)
 
 ![Nuclear Armageddon](./banners/nuclear_armageddon.png)
 
 > We are a highly active, ambitious, team based faction.
 > If you are unable to commit, do not apply!
-> 
+>
 > We accept players spending a minimum of 500e to 1000e per day training on average.
-> 
+>
 > We will enlist in ranked wars. Profit sharing from Cache Sales will be split with faction members based on participation. Therefore, we expect a reasonable performance and 100% energy uses towards RW's.
 
 ## Crime Focused Faction
 
-### [Evolution (Evo)](https://www.torn.com/factions.php?step=profile&ID=366/)
+### [Evolution (Evo)](https://www.torn.com/factions.php?step=profile&ID=366)
 
 ![Evolution](./banners/evolution.png)
 
 > Evolution is a crime focused faction and is part of the Nuclear family. With 25 PA teams, Evolution is a major force when it comes to CE building.
+
 <details>
 <summary>Exepectations</summary>
 
 - Be Active daily.
 - Be PA ready (ea 35k), and continue to build on your CE.
 - Willingness to participate in RW, real life allowing (rewards range between 90%-100%).
-- Use your booster CD to the max. 
+- Use your booster CD to the max.
 - Train as much energy as you can.
 - Donator Status.
 </details>
@@ -91,6 +96,7 @@ We ask that you:
 <summary>Benefits</summary>
 
 Premium CE growth environement:
+
 - PA spot for everyone, PA pay even on fails (35/25/20/15), and bonus for law firm employees.
 - Unlimited free beers & LBC after PAs.
 - High RW pay (90% to 100%).
@@ -101,13 +107,14 @@ Premium CE growth environement:
 
 ## Revive Focused Factions
 
-### [Nuclear Therapy](https://www.torn.com/factions.php?step=profile&ID=13851/)
+### [Nuclear Therapy](https://www.torn.com/factions.php?step=profile&ID=13851)
 
 ![Nuclear Therapy](./banners/nuclear_therapy.png)
 
-**Recruiting** Hybrid Revivers with 5m + battle stats, all skill levels accepted! 
+**Recruiting** Hybrid Revivers with 5m + battle stats, all skill levels accepted!
 
-> What we offer: 
+> What we offer:
+>
 > - Regular paid revive contracts, including paid failed revives.
 > - Membership into the largest and most experienced revive family.
 > - Great faction perks.
@@ -126,12 +133,12 @@ Premium CE growth environement:
 - Daily activity and let leadership know about any upcoming absences. We'll work with you!
 </details>
 
-### [Nuclear Clinic](https://www.torn.com/factions.php?step=profile&ID=21028/)
+### [Nuclear Clinic](https://www.torn.com/factions.php?step=profile&ID=21028)
 
 ![Nuclear Clinic](./banners/nuclear_clinic.png)
 
 > Nuclear Clinic is a reviving faction within this family.
-> 
+>
 > We don't do ranked wars but have monthly chains.
 
 <details>
@@ -140,9 +147,9 @@ Premium CE growth environement:
 We look for members that are active and login multiple times a day. Inactive members / members that don't join TornStats will be kicked.
 There is no BS minimum!
 
-We ask that you: 
+We ask that you:
 
-- Have the ability to revive 
+- Have the ability to revive
 - Join us on TornStats
 - Are in Torn when OC is due
 - Participate in chains
@@ -151,7 +158,7 @@ We ask that you:
 - And be active (f.e. 500E used daily on average)
 </details>
 
-### [Torn Medical](https://www.torn.com/factions.php?step=profile&ID=17133/)
+### [Torn Medical](https://www.torn.com/factions.php?step=profile&ID=17133)
 
 ![Torn Medical](./banners/torn_medical.png)
 
@@ -187,7 +194,7 @@ We ask that you:
 - Active family Discord server with over 900 members, with dedicated stock chat and alert channels.
 </details>
 
-### [Emergency Room](https://www.torn.com/factions.php?step=profile&ID=9745/)
+### [Emergency Room](https://www.torn.com/factions.php?step=profile&ID=9745)
 
 ![Emergency Room](./banners/emergency_room.gif)
 
