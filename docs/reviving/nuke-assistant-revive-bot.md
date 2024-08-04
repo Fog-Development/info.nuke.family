@@ -38,3 +38,13 @@ Want to request a revive? Use this command to request a revive from us. You can 
 Want to make a revive me button? Use this command to get a button that you can use to request a revive from us. You must have the "Manage Channel" permission in whatever channel you are trying to use this command in to insert the button. This is to ensure there isn't accidental usage of the button occuring and that whoever is adding it also can remove it if needed. The button works the same as running `/revive`.
 
 ![Revive Me Button](./nuke_assistant_request_button.png)
+
+### `/make-nuke-reviving-service-embed <?include_button>`
+
+Want to include an informational embed about the Nuke Reviving Service in your server? You can use this command to get an embed that you can use to inform your members about the Nuke Reviving Service. If you include the `include_button` parameter, it will also include a button that can be used to request a revive or request a revive on someone else. Including the buttons includes the same buttons as in the previous command. You must have the "Manage Channel" permission in whatever channel you are trying to use this command in to insert the embed. This is to ensure there isn't accidental usage of the embed occuring and that whoever is adding it also can remove it if needed.
+
+![Reviving Service Embed](./nuke_assistant_embedded_info.png)
+
+:::note[Note]
+If there are ever any updates to the informational embed message or revive buttons, the bot will automatically update the associated messages so that you don't need to worry about updating them yourself.
+:::
