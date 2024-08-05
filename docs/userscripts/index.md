@@ -1,6 +1,6 @@
 ---
 sidebar_label: Nuke Blacklist Userscript
-sidebar_position: 5
+sidebar_position: 6
 ---
 
 # Nuke Blacklist Userscript

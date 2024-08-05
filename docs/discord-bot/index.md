@@ -1,6 +1,6 @@
 ---
 sidebar_label: Discord Bot (Foggy Bot)
-sidebar_position: 4
+sidebar_position: 5
 ---
 
 import ReactPlayer from "react-player";
