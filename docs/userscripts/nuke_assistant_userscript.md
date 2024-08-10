@@ -46,7 +46,7 @@ After installing the script you will be able to see blacklisted members and add 
 
 ### Verifying Installation
 
-You can verify the installation is working by visiting a players profile, you should see a `Nuke Family Shitlist` box. If you do not see this box, please refer to the [Troubleshooting](./installation#troubleshooting) section. The box can look a few different ways:
+You can verify the installation is working by visiting a players profile, you should see a `Nuke Family Shitlist` box. If you do not see this box, please refer to the [Troubleshooting](#troubleshooting) section. The box can look a few different ways:
 
 <details>
 	<summary>Box Examples</summary>
