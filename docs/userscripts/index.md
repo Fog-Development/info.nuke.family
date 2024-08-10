@@ -57,7 +57,7 @@ Christmas Town Helper. Highlights Items, Chests, NPCs. And Games Cheat
 
 **Author:** Hardy \[2131687\]
 
-**Download:** [N/A](N/A)
+**Download:** [https://raw.githubusercontent.com/sid-the-sloth1/torn-qol-scripts/main/Christmas%20Town.user.js](https://raw.githubusercontent.com/sid-the-sloth1/torn-qol-scripts/main/Christmas%20Town.user.js)
 
 ---
 
@@ -67,7 +67,7 @@ Removes animations that play when opening supply packs
 
 **Author:** Hemicopter \[2780600\]
 
-**Download:** [N/A](N/A)
+**Download:** [https://gist.github.com/Sabbasofa/581c21004dcc12dfb9a726e533c5a69d/raw/a603de7326fe6cd7b948a7776b5bfa69208f5bc7/FastPacks.user.js](https://gist.github.com/Sabbasofa/581c21004dcc12dfb9a726e533c5a69d/raw/a603de7326fe6cd7b948a7776b5bfa69208f5bc7/FastPacks.user.js)
 
 ---
 
