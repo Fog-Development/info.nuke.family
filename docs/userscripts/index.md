@@ -120,3 +120,13 @@ Pay out cash directly from the crime results page.
 **Download:** [https://github.com/f2404/torn-userscripts/raw/master/faction_payday_made_easy.user.js](https://github.com/f2404/torn-userscripts/raw/master/faction_payday_made_easy.user.js)
 
 ---
+
+### Vault Catcher
+
+Watches for mistakes when giving members money from faction vault, and blocks requests that are over the user's total money
+
+**Author:** Lazerpent \[2112641\]
+
+**Download:** [https://greasyfork.org/scripts/457827-vault-catcher/code/Vault%20Catcher.user.js](https://greasyfork.org/scripts/457827-vault-catcher/code/Vault%20Catcher.user.js)
+
+---
