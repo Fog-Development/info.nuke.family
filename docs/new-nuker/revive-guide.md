@@ -137,8 +137,8 @@ this.
 ### Pricing Guidelines
 
 You are free to sell revives and advertise your services in trade chat
-or the forums however you wish. **All** revives must be charged at
-**$1,000,000 or a Xanax**.
+or the forums however you wish. While not mandatory, we **highly** suggest maintaining the standard rate of
+**$1,000,000 or a Xanax**. Offering revives for lower prices devalues your own energy, and over time leads to reduced rates for everyone. Energy is valuable, and these prices have been the standard for many years on Torn.
 
 ### Managing Revive Chances
 
