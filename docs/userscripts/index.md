@@ -81,13 +81,23 @@ Making things easier for the Nuke Family. This application will only function pr
 
 ---
 
-### personal-stats-average
+### Personal Stats Average
 
-shows the averages of the stat selected on top of the personalstats page
+Shows the averages of the stat selected on top of the personal stats page
 
 **Author:** Anxiety \[2149726\], finally \[2060206\], seintz \[2460991\]
 
 **Download:** [https://update.greasyfork.org/scripts/437934/personal-stats-average.user.js](https://update.greasyfork.org/scripts/437934/personal-stats-average.user.js)
+
+---
+
+### Random Target Finder
+
+Adds a button to the top of the page that opens a new tab with an easy target.
+
+**Author:** Omanpx \[1906686\]
+
+**Download:** [https://update.greasyfork.org/scripts/511916/Random%20Target%20Finder.user.js](https://update.greasyfork.org/scripts/511916/Random%20Target%20Finder.user.js)
 
 ---
 
