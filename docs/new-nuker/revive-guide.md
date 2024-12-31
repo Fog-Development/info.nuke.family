@@ -150,7 +150,7 @@ charged at the full price. As guidance I would suggest starting to
 charge fails at _60%_ but also have a hard limit of where you will not
 make any more attempts, (I use _40-50%_ for this marker).
 
-Revives through Discord requests are charged at **1m or a Xanax** also.
+Revives through Discord requests are charged at **1.8m or 2 xanax** also.
 
 Those under contracts will not need to pay individuals and this will be
 collected at a faction level and paid out to you by your faction
@@ -289,9 +289,9 @@ become active.
 Contracts are currently paid out to revivers on the below rates, this
 will be paid into your faction balance by your leaders.
 
-Standard contracts – **$850k**
+Standard contracts – **$1.7m**
 
-Premium Contracts - **$1m**
+Premium Contracts - **$1.9m**
 
 ### Handling Contract Revives
 
