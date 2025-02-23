@@ -27,23 +27,6 @@ Please continue reading by hitting the "Next" button below. If you are looking f
   :::
 - When you visit your first player profile the will ask if you'd like to generate a Nuke Family site API key. It will take you to the Nuke Family site to generate a key and then save it in the script automatically. Please see the below troubleshooting section if you have any issues with this process.
 
-### Troubleshooting
-
-<details>
-	<summary>Issues with generating or saving the API key?</summary>
-  - If you have any issues with generating or saving the API key, you can manually enter it by visiting the your [Faction page and clicking the "Controls"](https://www.torn.com/factions.php?step=your&type=1#/tab=controls) button. There is a `Change Payout Nuke Family Key` button you can use to set a key manually or to change an existing key. See image below for reference.
-    ![manual key entry](manual_nuke_family_key_change.png)
-  - To generate the Nuke Family Key itself, visit the [Nuke Family Key Generation page](https://nuke.family/auth/token-generation). Label the application name as you see fit, and click the "Generate Token" button. Copy the key and paste it into the above mentioned spot.
-    ![nuke family key generation](nuke_token_generator.png)
-    ![nuke family key generation after](nuke_token_generator_after.png)
-</details>
-
-Please feel free to reach out to me on Discord if you have any issues with the script or need help with anything. My Discord username is `Fogest`.
-
-## Usage
-
-After installing the script you will be able to see blacklisted members and add your own.
-
 ### Verifying Installation
 
 You can verify the installation is working by visiting a players profile, you should see a `Nuke Family Shitlist` box. If you do not see this box, please refer to the [Troubleshooting](#troubleshooting) section. The box can look a few different ways:
@@ -61,6 +44,23 @@ You can verify the installation is working by visiting a players profile, you sh
     	![nuke family shitlist box not blacklisted](nuke_blacklist_not_blacklisted.png)
 
 </details>
+
+### Troubleshooting
+
+<details>
+	<summary>Issues with generating or saving the API key?</summary>
+  - If you have any issues with generating or saving the API key, you can manually enter it by visiting the your [Faction page and clicking the "Controls"](https://www.torn.com/factions.php?step=your&type=1#/tab=controls) button. There is a `Change Payout Nuke Family Key` button you can use to set a key manually or to change an existing key. See image below for reference.
+    ![manual key entry](manual_nuke_family_key_change.png)
+  - To generate the Nuke Family Key itself, visit the [Nuke Family Key Generation page](https://nuke.family/auth/token-generation). Label the application name as you see fit, and click the "Generate Token" button. Copy the key and paste it into the above mentioned spot.
+    ![nuke family key generation](nuke_token_generator.png)
+    ![nuke family key generation after](nuke_token_generator_after.png)
+</details>
+
+Please feel free to reach out to me on Discord if you have any issues with the script or need help with anything. My Discord username is `Fogest`.
+
+## Usage
+
+After installing the script you will be able to see blacklisted members and add your own.
 
 ### Adding a Blacklist Entry
 
