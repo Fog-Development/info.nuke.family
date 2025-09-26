@@ -78,7 +78,7 @@ For information on how to request a revive for yourself or others, please see th
 
 ### Pricing
 
-You are free to sell revives, but we strongly recommend adhering to the community standard price of **$1,800,000 or two Xanax**. Pricing your services lower devalues your energy and negatively impacts the market for all revivers.
+You are free to sell revives, but you must adhere to the community standard price of **$1,800,000 or two Xanax**. Pricing your services lower devalues your energy and negatively impacts the market for all revivers.
 
 Revives requested through Discord are priced at **$1,800,000 or two Xanax**.
 
