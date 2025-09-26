@@ -15,13 +15,9 @@ Please continue reading by hitting the "Next" button below. If you are looking f
 - You must be a member of the Nuke Family and registered on the [Nuke Family website](https://nuke.family/)
 - You must have a [Nuke Family API key](https://nuke.family/auth/token-generation). The userscript will assist you in generating a Nuke Family site API key and saving it in the script.
 
-  :::caution
-  The script does not currently support TornPDA. Some people have had limited success trying to use it with TornPDA, but it is not officially supported. I intend to add support for TornPDA in the future.
-  :::
-
 ## Installation
 
-- Install the script from [GitHub by clicking here](https://github.com/Fog-Development/nuke-family-helper-script/raw/master/nuke-family-helper.user.js). Your userscript manager should prompt you to install it.
+- Install the script from [GitHub by clicking here](https://github.com/Fog-Development/nuke-family-helper-script/raw/master/nuke-family-helper.user.js). Your userscript manager or TornPDA should prompt you to install it after following the link.
   :::tip
   It is suggested that you make sure automatic updates are enabled in your userscript manager so you always have the latest version. The script will also check for updates and prompt you to update if a new version is available.
   :::
