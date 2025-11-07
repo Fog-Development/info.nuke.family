@@ -7,7 +7,7 @@ sidebar_position: 2
 
 The Nuclear Shitlist (_aka Nuclear Blacklist_) allows you to add people to a blacklist under various categories and reasons. Any users added to the blacklist are submitted for approval and will be reviewed by staff. This helps ensure that the blacklist is not abused and that users are not added for invalid reasons. In future versions of the script, you will be able to pick and choose which categories you care about. If you don't care to see blacklisted buymuggers, no problem, you'll be able to disable that category.
 
-Please continue reading by hitting the "Next" button below. If you are looking for installation instructions, please click the "Installation" link in the sidebar. If you are looking for requirements, please click the "Requirements" link in the sidebar.
+**As a reviver, if you are doing free revives from the hospital page, it is highly suggested you are using this script to avoid reviving shitlisted players, or players in active contracts (which may be premium only, or request only).**
 
 ## Requirements
 
@@ -83,3 +83,15 @@ The following categories are available at the faction level:
 ### Removing a Blacklist Entry
 
 Unfortunately, the script does not currently support removing blacklist entries. This is a feature that will be added in the future. If you need to remove a blacklist entry, please reach out to me (Fogest) on Discord and I can assist you with this.
+
+### Hospital page
+
+On the hospital page, different colours are used on players who fall into 3 different categories:
+
+- **Teal** - Player or Faction is in an active revive contract
+- **Green** - Nuke Family Member
+- **Red** - Blacklisted Player/Faction
+
+![hospital page colors](nuke_blacklist_hospital_page.png)
+
+_Note: If a Nuke member is in a revive contract, the teal colour will take precedence over the green Nuke Family colour._
