@@ -23,7 +23,7 @@ All you have to do is visit the [Discord Nuke Assistant Bot Invite link (click m
 
 ![Nuke Assistant Add Page Step 2](./nuke_assistant_add_page_step_2.png)
 
-The bot only requires these minimal permissions to function properly. It does not need any additional permissions to function. If you are trying to use the [`/make-revive-me-button`](#make-revive-me-button) command you will need the "Manage Channel" permission in the channel you are trying to use the command in. The bot will also need to be able to send messages in the channel you are trying to use the command in so that it can insert the button.
+The bot only requires these minimal permissions to function properly. It does not need any additional permissions to function. If you are trying to use the [`/make-revive-me-button`](#make-revive-me-button) command you will need the "Send Messages" and "Embed Links" channel permission in the channel you are trying to use the command in. The bot requires these permissions in order to post the embedded messages.
 
 ## Commands
 
@@ -35,13 +35,13 @@ Want to request a revive? Use this command to request a revive from us. You can 
 
 ### `/make-revive-me-button`
 
-Want to make a revive me button? Use this command to get a button that you can use to request a revive from us. You must have the "Manage Channel" permission in whatever channel you are trying to use this command in to insert the button. This is to ensure there isn't accidental usage of the button occuring and that whoever is adding it also can remove it if needed. The button works the same as running `/revive`.
+Want to make a revive me button? Use this command to get a button that you can use to request a revive from us. You must have the "Manage Channel" permission in whatever channel you are trying to use this command in to insert the button. This is to ensure there isn't accidental usage of the button occuring and that whoever is adding it also can remove it if needed. The button works the same as running `/revive`. The bot itself will require permissions to "Send Messages" in the channel to post the buttons.
 
 ![Revive Me Button](./nuke_assistant_request_button.png)
 
 ### `/make-nuke-reviving-service-embed <?include_button>`
 
-Want to include an informational embed about the Nuke Reviving Service in your server? You can use this command to get an embed that you can use to inform your members about the Nuke Reviving Service. If you include the `include_button` parameter, it will also include a button that can be used to request a revive or request a revive on someone else. Including the buttons includes the same buttons as in the previous command. You must have the "Manage Channel" permission in whatever channel you are trying to use this command in to insert the embed. This is to ensure there isn't accidental usage of the embed occuring and that whoever is adding it also can remove it if needed.
+Want to include an informational embed about the Nuke Reviving Service in your server? You can use this command to get an embed that you can use to inform your members about the Nuke Reviving Service. If you include the `include_button` parameter, it will also include a button that can be used to request a revive or request a revive on someone else. Including the buttons includes the same buttons as in the previous command. You must have the "Manage Channel" permission in whatever channel you are trying to use this command in to insert the embed. This is to ensure there isn't accidental usage of the embed occuring and that whoever is adding it also can remove it if needed. The bot will require the "Send Messages" and "Embed Links" permissions in the channel to post the embed.
 
 ![Reviving Service Embed](./nuke_assistant_embedded_info.png)
 
