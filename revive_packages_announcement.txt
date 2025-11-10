@@ -1,0 +1,58 @@
+REVIVE PACKAGES ANNOUNCEMENT
+=============================
+
+Title:
+------
+🎁 New Feature: Revive Packages Now Live!
+
+
+Message:
+--------
+We're excited to announce the launch of **Revive Packages** - a new pre-paid revive system that makes it easier for clients to get revived and for you to get paid faster!
+
+This new feature has soft launched and will be officially launched to clients soon after a brief testing period. Here's everything you need to know:
+
+## What Are Revive Packages?
+
+Clients can now purchase pre-paid bundles of premium Level 100 revives:
+- **25 Revives** - 45m
+- **50 Revives** - 90m
+- **100 Revives** - 180m
+
+## How It Works for Revivers
+
+When you revive a client who has an active package:
+- **Automatic deduction** - Their package balance is automatically decremented, their revive request will indicate it is a pre-paid package revive. Do not ask for payment!
+- **No chasing non-payers** - No need to chase payments, we will get you paid out like a regular bill would
+- **Premium rates** - All package revives are Level 100 revives, unless the client does not choose to have premium revives
+
+## How Clients Use It
+
+1. Click the **Revive Package Manager** button on any revive request embed or in their DM
+2. Select a package size (25, 50, or 100 revives)
+3. Follow payment instructions provided
+4. Payment is automatically detected within 5 minutes
+5. Their revives are credited and ready to use
+
+## Key Features
+
+✅ **Auto-payment detection** - Payments are tracked automatically using unique codes
+✅ **Top-up system** - Clients can add more revives when running low
+✅ **Live tracking** - Clients get a tracking URL to monitor their balance
+✅ **Embedded balance** - Current package status shown in the Package Manager
+
+## What This Means for You
+
+- **Paid for Success AND Failure** - Typically you only get paid for successful revives, but with packages, you get paid for every revive attempt made using a package
+- **Better client experience** - Clients can pre-pay and forget about it
+- **Paid like a bill** - You get paid out regularly without needing to chase payments
+- **Increased retention** - Easier for clients to commit to multiple revives upfront
+
+If you notice any issues or have questions about the new system, please reach out!
+
+
+Embed Color (HEX):
+------------------
+#00FF00
+
+(Alternative colors: #7289DA for Discord blurple, or #FF6B00 for nuclear orange theme)
