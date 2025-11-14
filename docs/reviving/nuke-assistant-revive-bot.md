@@ -23,7 +23,7 @@ All you have to do is visit the [Discord Nuke Assistant Bot Invite link (click m
 
 ![Nuke Assistant Add Page Step 2](./nuke_assistant_add_page_step_2.png)
 
-The bot only requires these minimal permissions to function properly. It does not need any additional permissions to function. If you are trying to use the [`/make-revive-me-button`](#make-revive-me-button) command you will need the "Send Messages" and "Embed Links" channel permission in the channel you are trying to use the command in. The bot requires these permissions in order to post the embedded messages.
+The bot only requires these minimal permissions to function properly. It does not need any additional permissions to function. If you are trying to use the [`/make-revive-me-button`](#make-revive-me-button) command you will need the bot to have the "Send Messages" and "Embed Links" channel permission in the channel you are trying to use the command in. The bot requires these channel permissions in order to post the embedded messages. You personally also need the "Manage Channel" permission. This is to ensure non mod/admin members in the Discord server are not able to use this command. If you're the one setting this up, you likely already have these permissions in your server.
 
 ## Commands
 
