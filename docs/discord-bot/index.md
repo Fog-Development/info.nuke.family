@@ -41,7 +41,6 @@ Revive Packages are pre-paid sets of premium Level 100 revives that you can purc
 3. **Payment Process**:
 
    - After selecting a package, you'll receive payment instructions both in the channel and via DM
-   - Send the specified amount to **Fogest [2254826]** with the unique payment code included in your message
    - Payment codes expire after a limited time (shown with a Discord timestamp)
    - Payments are automatically detected within 5 minutes
 
