@@ -42,38 +42,74 @@ This schedule outlines our faction's training focus (steadfast) for each month.
 
 ## Faction Rules
 
-1.  **Participate in Contracts:** Active participation in all contracts, especially during Nuke/allied wars, is expected. We understand that smaller contracts fill up quickly, but full participation is required for major events.
-2.  **Be Active Daily:** Log in multiple times a day to train, grow your crime experience (by doing crimes), and read faction mail. If you plan to be inactive for 2 or more days, please notify a leader.
-3.  **Daily Energy Usage:** Spend a minimum of 500 energy daily on gym training and/or reviving. This includes revives outside of contracts. Your effort improves both your reputation and ours.
-4.  **Financial Stability:** Members are expected to reside on a Private Island (PI) and maintain Donator Status within 30 days of joining. You can rent a PI and purchase Donator Status with in-game currency.
-5.  **Chains & Ranked Wars:** Contribute at least 1% of hits during chains (e.g., 100 hits in a 10k chain). Use all available energy during ranked wars. Do not revive during ranked wars, as the revive perk is disabled.
-6.  **Improve Nerve Bar:** Actively work on increasing your Natural Nerve Bar (NNB) by focusing on safe crimes.
-7.  **Torn Stats:** Joining [Torn Stats](#important-links) is mandatory. It helps us track member progress, enforce rules, and manage competitions.
-8.  **Organized Crime Policy:** Read and adhere to the [Organized Crime Policy](#organized-crime-oc-policy) detailed below.
-9.  **No Scamming, Begging, or Drama:** We maintain a peaceful and respectful environment. Such behavior will not be tolerated.
-10. **No Attacking Family:** Do not attack members of the Nuke family without prior arrangement. Exceptions may be made during Torn-wide events like Dog Tags or Elimination, with mutual consent. Mugging family members is strictly prohibited.
-11. **Be Respectful:** Treat all members with honesty and respect.
-12. **Protect Our Reputation:** Do not engage in conflicts that could tarnish Torn Medical's reputation.
-13. **Real Life First:** We understand that real-life events can be unpredictable. If you need to be away unexpectedly, please inform leadership.
-14. **Confidentiality:** Do not disclose the names of factions contracted with Torn Medical or Nuclear Central to anyone outside of NUKE.
-15. **Racket Items:** Do not use items obtained from rackets (e.g., Erotic DVDs, Moonshine). These are used to fund the faction family.
-16. **Have Fun!**
+These are the specific, enforceable rules. See [General Guidelines](#general-guidelines) for our broader expectations.
+
+1.  **Daily Energy Usage:** Spend a minimum of 750 energy daily on gym training and/or reviving.
+2.  **Financial Stability:** Reside on a Private Island (PI) and maintain Donator Status within 30 days of joining. See the [Private Island Rental Program](#private-island-rental-program) for discounted faction rates.
+3.  **Chains & Ranked Wars:** Contribute at least 1% of hits during chains (e.g., 100 hits in a 10k chain). Use all available energy during ranked wars. Do not revive during ranked wars, as the revive perk is disabled.
+4.  **Torn Stats:** Joining [Torn Stats](#important-links) is mandatory.
+5.  **Organized Crime Policy:** Read and adhere to the [Organized Crime Policy](#organized-crime-oc-policy) below.
+6.  **Confidentiality:** Do not disclose the names of factions contracted with Torn Medical or Nuclear Central to anyone outside of NUKE.
+
+## General Guidelines
+
+These are the standards we expect of every member:
+
+- **Participate in contracts**, especially during Nuke/allied wars. Smaller contracts fill quickly, but full participation is required for major events.
+- **Be active daily** — train, do crimes to grow your crime experience, and read faction mail. Notify a leader if you'll be inactive for 2 or more days.
+- **Improve your Natural Nerve Bar (NNB)** by focusing on safe crimes.
+- **No scamming, begging, or drama.** Treat all members with honesty and respect.
+- **Don't attack family** without prior arrangement. Exceptions may be made during Torn-wide events like Dog Tags or Elimination, with mutual consent. Mugging family is prohibited.
+- **Protect our reputation** — avoid conflicts that could tarnish Torn Medical's name.
+- **Real life first.** If you need to be away unexpectedly, let leadership know.
+- **Don't use racket items** (e.g., Erotic DVDs, Moonshine). These fund the faction family.
+
+## Faction Banking
+
+You can store your money in the faction vault and withdraw it whenever you need it. When you want to withdraw, please request it using one of the two methods below rather than asking in faction chat:
+
+- **Discord command:** Use the `/bank request` command in either of the [Nuclear Family Discord servers](#important-links). Your request is sent to a private channel that only bankers can see.
+- **Website:** Submit a banking request at [nuke.family/faction/bank-request](https://nuke.family/faction/bank-request). You'll need to be logged into an account on the site — if you don't have one, you can quickly create one.
+
+## Private Island Rental Program
+
+Need a PI to meet the financial stability rule? The faction rents private islands to members at discounted rates, available on our faction-owned island. Contact [Fogest [2254826]](https://www.torn.com/profiles.php?XID=2254826) to get set up with one of these packages:
+
+### 3,725 Happiness Package
+
+| Duration | Rate     | Total      |
+| :------- | :------- | :--------- |
+| 10 days  | 700k/day | 7m total   |
+| 30 days  | 625k/day | 18.75m total |
+| 100 days | 500k/day | 50m total  |
+
+### 4,225 Happiness Package
+
+| Duration | Rate     | Total      |
+| :------- | :------- | :--------- |
+| 10 days  | 925k/day | 9.25m total |
+| 30 days  | 875k/day | 26.25m total |
+| 100 days | 750k/day | 75m total  |
 
 ---
 
 ## Organized Crime (OC) Policy
 
-### Importance of OCs
+Organized Crimes (OCs) drive our faction's respect gains, your crime experience, and faction income. **You must join your own OCs — leadership cannot place you, but participation is mandatory.**
 
-Organized Crimes (OCs) are crucial for our faction's growth. They contribute significantly to our respect gains, increase your crime experience, and generate income that funds faction-wide benefits.
+:::danger[Joining Requirements — Check Your CPR First]
 
-### OC 2.0 Income
+Before joining any OC, check your **Checkpoint Pass Rate (CPR)** for the slot:
 
-With the transition to OC 2.0, many factions have seen nearly double the income compared to OC 1.0, both for the faction itself and for individual members. The faction will take a 10% cut of OC 2.0 income to cover item costs (especially for higher-level crimes), and members will receive the remaining 90% divided evenly among participants.
+- **Level 7 and below:** Join any slot where you have **70+ CPR**.
+- **Level 8:** Join slots where you have **60+ CPR**.
 
-### How to Join Crimes
+Always join the highest level OC you qualify for, and fill existing crimes before starting new ones.
 
-**THE BIGGEST CHANGE: You must now join your own OCs. Leadership cannot place you in a crime, but participation is still mandatory per faction policy.**
+:::
+
+<details>
+<summary>How to join crimes (CPR, items, planning & execution)</summary>
 
 ![Checkpoint Pass Rate (CPR) Info](./media/cpr_info.png)
 
@@ -82,37 +118,23 @@ _Above: Example OC screen.
 2️⃣ Crime level (e.g., 3/10 = Level 3 crime)  
 3️⃣ Roles for the crime, each showing your Checkpoint Pass Rate (CPR) in the top right._
 
-- **Crime Spawning:** Crimes of different levels (1-2, 3-4, 5-6, 7-8) are spawned regularly by leadership to ensure there are always OCs available for members to join. If you notice that no crimes are available, please notify leadership so new ones can be started. Always prioritize filling existing crimes before requesting new ones.
-- **Joining Requirements:**
-  - Check your **Checkpoint Pass Rate (CPR)** before joining any OC.
-  - For **Level 7 crimes and below:** Join any slot where you have **70+ CPR**.
-  - For **Level 8 crimes:** You may join slots where you have **60+ CPR** (these are much harder with expected ~65% success rates, but offer significantly higher payouts).
-  - Always join the highest level OC you qualify for and fill existing crimes before starting new ones.
-  - If there are multiple high level crime options to join, it is suggested you join any that currently have no members, as having one person in a role for the planned crime gets the planning timer started!
-- **Crime Items:** Some roles require specific items. When you hover or click on a role in the OC screen, it will display any required items for that role. Make sure you have the required item in your inventory before the crime completes. Not all roles require items-if none are listed, you do not need to bring anything extra. You can also check the [OC Items Spreadsheet](https://docs.google.com/spreadsheets/d/1LKEVECElJm89s-MoiBeTkvqVPeNwIeAQMCI9bdPLI64/edit?gid=1447577706#gid=1447577706) for a full list.
-- **Planning Time:** Each slot takes 24 hours to plan, starting from the leftmost position. The crime progresses only if someone occupies the next slot when the previous one finishes planning. Total planning time equals 24 hours multiplied by the number of participants.
-- **Crime Execution:** Once all planning stages complete, the crime runs automatically if all participants have the required items and are in Torn (not hospitalized or jailed).
+- **Crime Spawning:** Leadership regularly spawns crimes of different levels (1-2, 3-4, 5-6, 7-8). If none are available, notify leadership. Always fill existing crimes before requesting new ones.
+- **Empty crimes first:** If multiple high-level crimes are open, join one with no members — a single occupant starts the planning timer.
+- **Crime Items:** Some roles require specific items, shown when you hover or click the role. Make sure you have the item in your inventory before the crime completes. If no items are listed, you don't need to bring anything.
+- **Planning Time:** Each slot takes 24 hours to plan, starting from the leftmost position. The crime progresses only if the next slot is occupied when the previous one finishes. Total planning time = 24 hours × number of participants.
+- **Crime Execution:** Once planning completes, the crime runs automatically if all participants have their items and are in Torn (not hospitalized or jailed).
 
-### OC 2.0 Policies
+</details>
 
-- **Member Responsibility:** You are responsible for joining a new crime after your previous one completes. The faction requirement to participate in OCs remains in effect.
-- **Item Requirements:**
-  - Check which slots require items using the [OC Items Spreadsheet](https://docs.google.com/spreadsheets/d/1LKEVECElJm89s-MoiBeTkvqVPeNwIeAQMCI9bdPLI64/edit?gid=1447577706#gid=1447577706).
-  - If an item is consumed by the crime, use the `/bank request` command with proof of purchase in the "amount/items to withdraw" field for reimbursement at market rates.
-  - If an item is not consumed, you are responsible for purchasing and maintaining it.
-- **Slot Removal:** Leadership has permissions to remove you from a crime slot if you don't meet the requirements. If this happens, rejoin in an appropriate slot for your skill level.
-- **Warnings:** Any action that delays a crime will result in a warning, including:
-  - Not being in Torn when the crime runs
-  - Being hospitalized or jailed when the crime runs
-  - Not having the required item when the crime runs
+### OC Policies
 
-### OC 2.0 Payouts
+- **Member Responsibility:** Join a new crime after your previous one completes. OC participation is a faction requirement.
+- **Item Reimbursement:** If an item is consumed by the crime, use `/bank request` with proof of purchase in the "amount/items to withdraw" field for reimbursement at market rates. If an item is not consumed, you maintain it yourself.
+- **Slot Removal:** Leadership may remove you from a slot if you don't meet the requirements. If this happens, rejoin an appropriate slot.
 
-All OC levels use a 10% faction cut with the remaining 90% divided evenly among participating members.
+### OC Payouts
 
-- **Level 7 OCs:** Equivalent to high Planned Heist (PH) / low Planned Assassination (PA) payouts. Members currently in PHs will likely start earning more in OC 2.0.
-- **Level 8 OCs:** Equivalent to high PA payouts and above. Most PA members (except former PA leads) will earn more per crime. Level 8 crimes run every 6 days, providing more frequent payouts.
-- **Level 9 & 10 OCs:** Not yet released. Expected to be even more challenging with potentially lower success rates but significantly higher payouts.
+The faction takes **10%** of OC income; the remaining **90%** is divided evenly among participating members.
 
 ### OC Cancellation
 
@@ -127,11 +149,10 @@ Delays hurt the faction's progress. Warnings and fines will be issued for delays
 - Being hospitalized from a failed crime and not getting out
 - Not having the required item in your inventory when the crime runs
 
-**Exceptions:** If delayed by an action taken against you (e.g., arrested, overseas mugging), send a copy of the event log to Leadership to be exempt from fines. No fines are issued during Torn-wide events that require travel or hospitalization.
+**Exception:** No fines are issued during Torn-wide events where applicable.
 
 ### Useful Resources
 
 - [Ched's OC 2.0 Announcement](https://www.torn.com/forums.php#/p=threads&f=1&t=16438781&b=0&a=0)
 - [Basic Crime Layout Guide](https://www.torn.com/forums.php#/p=threads&f=61&t=16439019&b=0&a=0)
-- [OC Items Spreadsheet](https://docs.google.com/spreadsheets/d/1LKEVECElJm89s-MoiBeTkvqVPeNwIeAQMCI9bdPLI64/edit?gid=1447577706#gid=1447577706)
 - [Item Source Guide](https://www.torn.com/forums.php#/p=threads&f=2&t=16428538&b=0&a=0&start=320&to=25452603)
