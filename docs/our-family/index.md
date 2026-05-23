@@ -7,7 +7,7 @@ tags:
 
 # Our Family
 
-The Nuclear Family is made up of a set of **9** factions that work together to grow as players. Each faction has its own unique set of rules and requirements, but all factions share a common goal of growth. We have [**4 training factions**](#training-factions) focused on gym training and ranked warring. We have [**4 reviving factions**](#revive-focused-factions) with slightly differing requirements and focuses. And finally we have one focused heavily on PA's and is the top dog when it comes to everything [**crime related**](#crime-focused-faction).
+The Nuclear Family is made up of a set of **10** factions that work together to grow as players. Each faction has its own unique set of rules and requirements, but all factions share a common goal of growth. We have [**4 training factions**](#training-factions) focused on gym training and ranked warring. We have [**1 ranked war cache faction**](#ranked-war-cache-factions) built for high-intensity warring. We have [**4 reviving factions**](#revive-focused-factions) with slightly differing requirements and focuses. And finally we have one focused heavily on level 8 and above OC's and is the top dog in Torn when it comes to everything [**crime related**](#crime-focused-faction).
 
 ## Training Factions
 
@@ -73,6 +73,26 @@ We ask that you:
 > We accept players spending a minimum of 500e to 1000e per day training on average.
 >
 > We will enlist in ranked wars. Profit sharing from Cache Sales will be split with faction members based on participation. Therefore, we expect a reasonable performance and 100% energy uses towards RW's.
+
+## Ranked War Cache Factions
+
+### [Ionization](https://www.torn.com/factions.php?step=profile&ID=15222)
+
+![Ionization](./banners/ionization.webp)
+
+> The high-intensity war branch of the Nuke Family; a faction built for players who want pressure, consistency, and pure aggression. Mandatory hits, mandatory growth, coordinated wars, and no downtime.
+
+<details>
+<summary>Requirements</summary>
+
+- 750 energy per day
+- 1 billion total battle stats
+- 60 natural nerve bar
+- Ready to war every week and avoids losing score
+- In Torn and out of hospital for when OCs run
+- Join on Torn Stats and Discord
+- Exceptions may be made for active and exceptional players who fall below the required battle stats
+</details>
 
 ## Crime Focused Faction
 
@@ -162,13 +182,13 @@ We ask that you:
 
 ![Torn Medical](./banners/torn_medical.png)
 
-> Torn Medical is a part of Nuclear Family, and Nuclear Central, which is possibly the biggest reviving group in Torn. Torn Medical is currently HOF #2 in terms of revives. We are on the path to becoming a hybrid reviving faction.
+> Torn Medical is a part of Nuclear Family, and Nuclear Central, which is possibly the biggest reviving group in Torn. Torn Medical is currently HOF #2 in terms of revives. Torn Medical is a Platinum ranked warring hybrid faction looking for highly motivated war fighters who also like to do some reviving to earn some extra cash. We do ranked wars every 3-5 weeks.
 
 <details>
 <summary>Requirements</summary>
 
 - Actively participate in the revive contracts.
-- Spend 500+ energy daily, on average, either reviving or training in the gym.
+- Spend 750+ energy daily, on average, either reviving or training in the gym.
 - Achieve 1% of hits in chains and use all available energy in ranked wars.
 - Actively work to improve your NNB/Crime Experience by sticking with safe crimes.
 - Be financially self-sufficient enough to own/rent PI (with or without spouse) & have Donator status.
@@ -186,7 +206,7 @@ We ask that you:
 - Free medical items (SFAK/FAK), Beer & Lollipops.
 - Access to loan Weapon & Armour from faction armory
 - 85% of RW cache rewards split between members, based on participation.
-- 95% of successful PA payment split between members, based on their spot.
+- 90% of OC 2.0 crime payouts split between members, with consumable items provided by the faction.
 - Opportunity to participate in revive contracts from Nuclear Central to earn money.
 - Opportunity to participate in faction/family-wide events/contests/giveaways.
 - Movement between Nuke family factions for use of different faction upgrades.
