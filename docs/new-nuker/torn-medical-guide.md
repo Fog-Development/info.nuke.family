@@ -18,6 +18,7 @@ This guide is specifically related to the **Torn Medical** faction!
 - **Nuclear Family Discord:** [Join here](https://discord.gg/FKdWSsv)
 - **Nuclear Central Hospital Discord:** [Join here](https://discord.gg/qSHjTXx)
 - **TornStats Application:** [Apply here](https://tornstats.com/factions/show/1514/apply)
+- **Torn Resources Guide:** [Tools, scripts, and websites we recommend](./torn-resources-guide.md)
 
 Welcome to Torn Medical! We're glad to have you. Before you get started, please make sure to read the [Revive Guide](./revive-guide.md) to understand our reviving protocols. It is also mandatory to sign up for the faction on TornStats using the link above.
 
