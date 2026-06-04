@@ -151,16 +151,6 @@ A comprehensive companion for Crimes 2.0 covering morale tracking and other crim
 
 ---
 
-### Organized Crime Analytics
-
-Tracks and analyzes OC scenarios with local caching, plus player and faction-wide stats and a built-in UI for reviewing performance.
-
-**Author:** Allenone \[2033011\]
-
-**Link:** [Greasy Fork](https://greasyfork.org/en/scripts/531379-organized-crime-analytics)
-
----
-
 ### Torn OC Weights Under Roles
 
 Adds a weight box under each OC role using the tornprobability.com API so you can pick the best person for a slot at a glance.
@@ -326,6 +316,34 @@ Save and load worker presets for company directors - much faster than reconfigur
 **Author:** Apollyon \[445323\]
 
 **Link:** [Greasy Fork](https://greasyfork.org/en/scripts/482214-torn-company-loadouts)
+
+---
+
+### Organized Crime Analytics
+
+Tracks and analyzes OC scenarios with local caching, plus player and faction-wide stats and a built-in UI for reviewing performance.
+
+**Author:** Allenone \[2033011\]
+
+**Link:** [Greasy Fork](https://greasyfork.org/en/scripts/531379-organized-crime-analytics)
+
+---
+
+### OC 2.0 Overview
+
+A consolidated OC 2.0 dashboard that shows crime timers, member item availability, success rates, and statuses (including travel) all in one place, so leadership can chase down empty slots without waiting to land.
+
+**Features:**
+
+- Adds a list of members available for OC 2.0, with an optional toggle to view crimes and the members in each crime.
+- Lets you exclude members from the available list via the settings page (e.g. members away for long periods).
+- Shows crime timers, item availability, success rates, and member status in one spot, even while you're traveling.
+- While you're traveling, the list is pinned to the top of your faction page so you can wrangle people into OCs before you land.
+- Optional TornTools-style sidebar notifier that pings you when you're not in an OC.
+- Highlights you in the OC list in green because reading is hard.
+- May break when the unstable v2/faction/crimes endpoint changes.
+
+**Link:** [Torn Forum Thread](https://www.torn.com/forums.php#/p=threads&f=67&t=16442996&b=0&a=0)
 
 ---
 
