@@ -28,6 +28,12 @@ Complete every item on this list **before** the war begins. Failing to prepare i
 
 :::
 
+:::tip[Useful scripts & tools for ranked wars]
+
+Before you go through the checklist, take a look at the [Ranked Wars & Chaining section of the Torn Resources Guide](./torn-resources-guide.md#ranked-wars--chaining) for userscripts that make warring much easier (Chain Watcher, Torn War Stuff Enhanced, Battle Stats Predictor, Random Target Finder). The full [Torn Resources Guide](./torn-resources-guide.md) also has market, OC, and quality-of-life tools worth installing.
+
+:::
+
 | Task                                   | Notes                                                                                                                                                                                                                                                                      |
 | -------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Turn revives OFF**                   | Set revives to "No One" in settings. Only enable them the moment you need a revive, then disable immediately after. Leaving them on lets the opponent hostile-revive and farm you.                                                                                         |
@@ -263,7 +269,7 @@ The Torn mail editor supports basic HTML. Paste the block below directly into th
   </tr>
   <tr>
     <td><b>Install recommended scripts</b></td>
-    <td><a href="https://greasyfork.org/en/scripts/381435-chain-watcher">Chain Watcher script</a> &#8212; audio alert when chain timer runs low. Also review all revive request methods for the war.</td>
+    <td>See the <a href="https://info.nuke.family/new-nuker/torn-resources-guide#ranked-wars--chaining">Ranked Wars &amp; Chaining section of the Torn Resources Guide</a> for recommended userscripts (Chain Watcher, Torn War Stuff Enhanced, Battle Stats Predictor, and more). Also review all revive request methods for the war.</td>
   </tr>
   <tr>
     <td><b>Stock up on items</b></td>
