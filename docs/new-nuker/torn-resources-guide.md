@@ -235,16 +235,6 @@ When you click the shopping cart button on a bazaar, the quantity is automatical
 
 ---
 
-### Bazaar Auto Price
-
-Auto-sets bazaar prices when you click the money input field - speeds up restocking your bazaar significantly.
-
-**Author:** tos, Lugburz
-
-**Link:** [GitHub](https://github.com/f2404/torn-userscripts)
-
----
-
 ## Stocks & Money
 
 ### TORN Stock Market - Keep Graphs Open
@@ -400,4 +390,3 @@ A St. Patrick's / Christmas Town helper that auto-grabs beer glasses for you. Ba
 **Author:** sportzpikachu
 
 **Link:** [GitHub](https://github.com/sportshead/beer_glass)
-
