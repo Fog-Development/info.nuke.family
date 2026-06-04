@@ -101,9 +101,11 @@ Watch the chain - surfaces chain-relevant info on the faction/war pages so chain
 
 Predicts total battle stats for each Torn player almost everywhere they appear (profiles, faction pages, attack lists, hall of fame, and more) using a machine-learning model trained on real spies. Predictions can also be overridden by linking with TornStats/YATA so you see the most reliable info available.
 
+_Note that there is a small subscription cost for this script, though there is a free trial and an option to get some free time added_
+
 **Author:** TDup
 
-**Link:** [GitHub](https://github.com/tdup-torn/userscripts)
+**Link:** [Torn Forum Thread](https://www.torn.com/forums.php#/p=threads&f=67&t=16290324&b=0&a=0)
 
 ---
 
@@ -291,9 +293,9 @@ Lets faction managers distribute money or change balances for multiple members a
 
 Adds a property management dashboard to the properties page with expiration tracking, offer status, and pagination - handy for landlords and faction property handlers.
 
-**Author:** beans\_ \[174079\], modified by Fogest
+**Author:** beans\_ \[174079\]
 
-**Link:** _Placeholder - add the GitHub or Greasy Fork link here._
+**Link:** [Torn Forum Thread](https://www.torn.com/forums.php#/p=threads&f=67&t=16440970&b=0&a=0)
 
 ---
 
